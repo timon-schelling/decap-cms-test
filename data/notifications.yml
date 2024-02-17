@@ -1,10 +1,9 @@
 notifications:
   - loud: true
-    message: Register to join us online for our next community dev meeting, every
-      other Wednesday at 9am-10am PT!
-    published: false
+    message: Some new info
+    published: true
     title: Netlify CMS Development Planning Sessions Promo
-    url: https://www.eventbrite.com/e/netlify-cms-planning-session-bi-weekly-tickets-35794058994
+    url: https://derfunke.de
   - loud: true
     message: We have a community chat - join now to ask questions and discuss the
       project with other devs!
