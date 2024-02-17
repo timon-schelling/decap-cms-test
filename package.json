@@ -1,5 +1,5 @@
 {
-  "name": "decap-website",
+  "name": "decap-cms-test",
   "version": "1.0.0",
   "private": true,
   "description": "Decap CMS documentation website built with Gatsby",
@@ -14,7 +14,7 @@
   "keywords": [
     "gatsby, decap-cms, documentation"
   ],
-  "homepage": "https://www.decapcms.org/",
+  "homepage": "https://monumental-eclair-a72b67.netlify.app/",
   "license": "MIT",
   "dependencies": {
     "@emotion/cache": "^11.11.0",

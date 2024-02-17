@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: decaporg/decap-website
+  repo: timon-schelling/decap-cms-test
   squash_merges: true
   open_authoring: true
   branch: main
 
 local_backend: true
 
-site_url: https://www.decapcms.org
+site_url: https://monumental-eclair-a72b67.netlify.app
 
 publish_mode: editorial_workflow
 

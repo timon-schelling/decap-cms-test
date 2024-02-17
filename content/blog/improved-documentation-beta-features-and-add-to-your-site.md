@@ -16,4 +16,4 @@ The setup guide was also improved and split into bite-sized pages, so that it's 
 
 In more technical news, the website is now a separate repository, which improves the focus of each project. It also solves the issues of overlapping CI tests, Issues, dependencies, and more.
 
-We will continue our effort to improve the docs. If you would like to contribute or comment, please join us on [GitHub](https://github.com/decaporg/decap-website) or [Discord](https://decapcms.org/chat).
+We will continue our effort to improve the docs. If you would like to contribute or comment, please join us on [GitHub](https://github.com/timon-schelling/decap-cms-test) or [Discord](https://decapcms.org/chat).
